@@ -1,4 +1,4 @@
-selenium2-base -- A base project for Selenium test projects
+Selenium2-base -- A base project for Selenium test projects
 ====================================
 
 ## DESCRIPTION
